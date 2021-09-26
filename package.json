@@ -1,0 +1,27 @@
+{
+  "name": "WXServer",
+  "version": "0.0.0",
+  "description": "Node.js微信服务端",
+  "apidoc": {
+    "title": "Node.js微信服务端API接口文档",
+    "url": "http://localhost:4321",
+    "sampleUrl": "http://localhost:4321"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "doc": "apidoc -i ./router  -o apidoc"
+  },
+  "author": "Aries.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2",
+    "multer": "^1.4.3",
+    "nodemailer": "^6.6.3"
+  }
+}

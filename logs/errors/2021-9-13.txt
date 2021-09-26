@@ -1,0 +1,43 @@
+
+        =======================================
+        错误类型: Error
+        错误描述: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        错误时间: 2021-9-13 15:13:28
+        错误堆栈: Error: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        =======================================
+        
+        =======================================
+        错误类型: Error
+        错误描述: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        错误时间: 2021-9-13 15:13:28
+        错误堆栈: Error: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        =======================================
+        
+        =======================================
+        错误类型: Error
+        错误描述: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        错误时间: 2021-9-13 15:15:36
+        错误堆栈: Error: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        =======================================
+        
+        =======================================
+        错误类型: Error
+        错误描述: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        错误时间: 2021-9-13 15:15:37
+        错误堆栈: Error: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        =======================================
+        
+        =======================================
+        错误类型: Error
+        错误描述: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        错误时间: 2021-9-13 15:21:13
+        错误堆栈: Error: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        =======================================
+        
+        =======================================
+        错误类型: Error
+        错误描述: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        错误时间: 2021-9-13 15:21:13
+        错误堆栈: Error: ENOENT: no such file or directory, stat 'D:\Desktop\Code\Node\WXServer\defaultPages\404.ejs'
+        =======================================
+        
